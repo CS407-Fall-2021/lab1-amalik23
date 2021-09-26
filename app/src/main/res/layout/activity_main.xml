@@ -26,7 +26,7 @@
         android:layout_marginLeft="68dp"
         android:layout_marginTop="116dp"
         android:onClick="clickFunc"
-        android:text="Submit"
+        android:text="Click Me"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
